@@ -5,6 +5,7 @@
 npm install
 ```
 
-## Todo
-* document how to run the app
-* hook the frontend into the backend
+## Run
+```
+npm start
+```
